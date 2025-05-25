@@ -20,7 +20,3 @@ Niezastosowanie się do instrukcji może skutkować obniżeniem punktacji - ewal
 
 W razie pytań zachęcam do zadawania pytań poprzez Teams lub konsultacje!
 Powodzenia!
-
---- PROMPT ---
-
-make a new notebook for this assigment #file:instructuon.txt I want to do a vae gan. Do not make this overcomplicated, for now lets just create basic complete notebook that does not overcomplicates but has everything mentioned in the task. I have downloaded the image files and unziped them. Use as much technics and averything from the code provided by the teacher #file:Lab8_autoenkodery.py #file:Lab9 - modele generatywne_25L.py. Do something oryginal only when neccesary.
